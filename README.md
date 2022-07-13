@@ -4,8 +4,14 @@
   <a align="rigth"  href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA" target="_blank">
   </a><br>
   
-  </div><div align="center"><div align="center">
-  <img align="center" alt="git" height="60" width="70" src="https://media-exp2.licdn.com/dms/image/C4E2DAQG8WVcEuc7BtA/profile-treasury-image-shrink_1280_1280/0/1656630463652?e=1658300400&v=beta&t=XOnxXhkV_xJSVZGTTVtrjWBTtfktS0fzULwYWBAW0W0">
+  </div><div <h2 align="center"><div align="center">
+ 
+É algo simples, mas para mim é muito simbólico. Meu primeiro setup :heart:  </h2>
+
+ </div>
+
+ </div><div <h3 align="center"><div align="center">
+  <img align="center" alt="git" height="800" width="600" src="https://media-exp2.licdn.com/dms/image/C4E2DAQG8WVcEuc7BtA/profile-treasury-image-shrink_1280_1280/0/1656630463652?e=1658300400&v=beta&t=XOnxXhkV_xJSVZGTTVtrjWBTtfktS0fzULwYWBAW0W0">
   </div>
   
   
