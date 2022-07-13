@@ -22,9 +22,14 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="45" width="55" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+     <img align="center" alt="nodejs" height="40" width=50" src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-png-400.png">
   <img align="center" alt="nodejs" height="40" width=50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
   <img align="center" alt="Angular" height="50" width="60" src="https://www.kindpng.com/picc/m/70-705578_manage-loading-with-angular-material-progress-bars-angular.png">
-  
+  <img align="center" alt="jquery" height="50" width="40" src="https://pluspng.com/img-png/logo-jquery-png--400.png">
+  <img align="center" alt="mySQL" height="40" width=50" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png">
+  <img align="center" alt="botestrap" height="45" width="55" src="https://lh6.googleusercontent.com/proxy/M_tvSYy6I1MEBflFQDd_7xuy2ycGig0NjfPiq5vrU_IPtzAl9MlbC_knprw0y5Og3lvSnOfgKkagIuHIFmBwYIg5pmFkYKhxphu5SJ6sxyoNlabLWjyNJRimxY_EYZO4Qo4BD6MTGHRtqAQC4GPQVQWgXWciwuLEfl5ca6Qc=w1600">
+
+   
 </div><br>
 
    </div>
