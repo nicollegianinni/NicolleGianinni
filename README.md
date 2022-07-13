@@ -1,6 +1,6 @@
 <div>
   <h2 align="center">oi oi, eu sou a <a href="https://www.linkedin.com/in/nicollegianinni/"><i>Nicolle Gianinni</i></a></h2>
-  <p align="center">Sou estudante de desenvolvimento Full Stack na <a href="https://brazil.generation.org/"><i>Generation</i></a>, de analises de sistema na Uninassau, e no meu tempo livre crio conteúdo no <a href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA"><i>YouTube</i></a><span> 
+  <p align="center">Sou estudante de desenvolvimento Full Stack na <a href="https://brazil.generation.org/"><i>Generation</i></a>, de analises de sistema na Uninassau, no meu tempo livre crio conteúdo no <a href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA"><i>YouTube</i></a><span> 
   <a align="rigth"  href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA" target="_blank"> 
   </a><br>e adoro Front End !
      </div>
