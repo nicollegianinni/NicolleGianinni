@@ -15,6 +15,7 @@
   <img align="center" alt="nodejs" height="45" width="55" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="nodejs" height="40" width=50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+  <img align="center" alt="Angular" height="50" width="60" src="https://www.kindpng.com/picc/m/70-705578_manage-loading-with-angular-material-progress-bars-angular.png">
   
 </div><br>
 
@@ -22,7 +23,7 @@
     
   <p>
   </div><div <p <h2 align="center"><div align="center">
-É algo simples, mas para mim é muito simbólico. Meu primeiro setup :heart:  </h2>
+É algo simples, mas para mim é muito simbólico. Meu primeiro S e t u p :heart:  </h2>
  <p>
  </div>
 
