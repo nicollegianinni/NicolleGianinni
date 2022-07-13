@@ -4,6 +4,14 @@
   <a align="rigth"  href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA" target="_blank"> 
   </a><br>e adoro Front End !
      </div>
+     
+     
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="git" height="60" width="70" src="https://logospng.org/download/java/logo-java-512.png">
@@ -34,13 +42,6 @@
   
 
 
-<div align="center">
-</div>
+   
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
-</div>
