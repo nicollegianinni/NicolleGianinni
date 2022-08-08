@@ -1,8 +1,9 @@
 <div>
   <h2 align="center">oi oi, eu sou a <a href="https://www.linkedin.com/in/nicollegianinni/"><i>Nicolle Gianinni</i></a></h2>
-  <p align="center">Sou estudante de desenvolvimento Full Stack na <a href="https://brazil.generation.org/"><i>Generation</i></a>,<br><align="center"> de analises de sistema na Uninassau, no meu tempo livre crio conteúdo no <a href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA"><i>YouTube</i></a><span> 
+  <p align="center">Sou estudante de desenvolvimento Full Stack java na <a href="https://brazil.generation.org/"><i>Generation</i></a>,<br><align="center">Linguagem Java Full Stack  <a href="https://www.oracle.com/br/education/oracle-next-education/"><i>Oracle ONE</i></a>,<br>
+Linguagem <a href="https://meninasprogramadoras.icmc.usp.br//"><i>Python</i></a> pela ICMC USP, <br>no meu tempo livre crio conteúdo no <a href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA"><i>YouTube</i></a><span> 
   <a align="rigth"  href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA" target="_blank"> 
-  </a><br>e adoro Front End !
+  </a><br>e sou amante de Front-End | UX | UI ! :heart:
      </div>
      
      
