@@ -1,5 +1,5 @@
 <div>
-  <h2 align="center">oi oi, eu sou a <a href="https://www.linkedin.com/in/nicollegianinni/"><i>Nicolle Gianinni</i></a></h2>
+  <h2 align="center">Oi oi, eu sou a <a href="https://www.linkedin.com/in/nicollegianinni/"><i>Nicolle Gianinni</i></a></h2>
   <p align="center">Sou estudante de desenvolvimento Full Stack java na <a href="https://brazil.generation.org/"><i>Generation</i></a>,<br><align="center">Linguagem Java Full Stack  <a href="https://www.oracle.com/br/education/oracle-next-education/"><i>Oracle ONE</i></a>,<br>
 Linguagem <a href="https://meninasprogramadoras.icmc.usp.br//"><i>Python</i></a> pela ICMC USP, <br>no meu tempo livre crio conteúdo no <a href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA"><i>YouTube</i></a><span> 
   <a align="rigth"  href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA" target="_blank"> 
@@ -12,6 +12,7 @@ Linguagem <a href="https://meninasprogramadoras.icmc.usp.br//"><i>Python</i></a>
   
   ![Snake animation](https://github.com/nicollegianinni/nicollegianinni/blob/output/github-contribution-grid-snake.svg)
   
+  <h2> PRINCIPAIS STACKS</h2> 
 </div>
 <div align="center" valign="top">
   <img align="center" alt="java" height="60" width="70" src="https://logospng.org/download/java/logo-java-512.png">
