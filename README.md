@@ -33,7 +33,7 @@ Linguagem <a href="https://meninasprogramadoras.icmc.usp.br//"><i>Python</i></a>
    
 </div><br>
 
-  </div>
+  <div align="center">
    
   
   <h2>Contatos</h2><br>
@@ -42,7 +42,7 @@ Linguagem <a href="https://meninasprogramadoras.icmc.usp.br//"><i>Python</i></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/nicollegianinni/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:nicolle.gianini@gmail.com)
 
-
+</div>
    
 
 
