@@ -11,8 +11,7 @@ Ciêntista de dados pela <a href="https://semantix.ai/"> <i>Semantix</i></a>, <b
 
 <div align="center">
   
-  
-</div>
+ 
   
   <h2> PRINCIPAIS STACKS</h2> 
 </div>
