@@ -11,7 +11,7 @@ Ciêntista de dados pela <a href="https://semantix.ai/"> <i>Semantix</i></a>, <b
 
 <div align="center">
   
-   ![Snake animation](https://github.com/nicollegianinni/nicollegianinni/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
   
   <h2> PRINCIPAIS STACKS</h2> 
