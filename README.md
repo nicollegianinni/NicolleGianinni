@@ -7,6 +7,11 @@ Ciêntista de dados pela <a href="https://semantix.ai/"> <i>Semantix</i></a>, <b
   </a><br>e sou amante de Front-End | UX | UI ! :heart:
      </div>
      
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
      
 
 <div align="center">
