@@ -4,14 +4,10 @@
 Linguagem <a href="https://meninasprogramadoras.icmc.usp.br//"><i>Python</i></a> pela ICMC USP, <br>
 Ciêntista de dados pela <a href="https://semantix.ai/"> <i>Semantix</i></a>, <br>no meu tempo livre crio conteúdo no <a href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA"><i>YouTube</i></a><span> 
   <a align="rigth"  href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA" target="_blank"> 
-  </a><br>e sou amante de Front-End | UX | UI ! :heart:
+  </a><br>ultima atualização: Me formei backend java <br> pelo programa #ElasTech do PagBank pagseguro !:heart:
      </div>
      
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+   
      
 
 <div align="center">
