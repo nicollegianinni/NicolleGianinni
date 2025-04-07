@@ -1,18 +1,12 @@
 <div>
-  <h2 align="center">Oi oi, eu sou a <a href="https://www.linkedin.com/in/nicollegianinni/"><i>Nicolle Gianinni</i></a></h2>
-  <p align="center">Full Stack java jr pela <a href="https://brazil.generation.org/"><i>Generation</i></a>,<br><align="center"> e pela <a href="https://www.oracle.com/br/education/oracle-next-education/"><i>Oracle ONE</i></a>,<br>
+  <h3 align="center">Oi oi, eu sou a <a href="https://www.linkedin.com/in/nicollegianinni/"><i>Nicolle Gianinni</i></a></h3>
+  <p align="center">Engenheira de software jr do pagbank e estudante de analises e desenvolvimentos de sistema pela Estacio ,<br>
+   Em 2025, estou empenhada na certificação Java pela oracle, tenho linguagem Kotlin pela Alura<a href="https://www.alura.com.br/?utm_term=alura&utm_campaign=%5BSearch%5D%20%5BPerformance%5D%20-%20Institucional&utm_source=bing&utm_medium=cpc&utm_content=73598876333365&campaign_id=566118231&utm_id=566118231_1177577964362469_73598876333365&hsa_acc=138072252&hsa_grp=1177577964362469&hsa_ad=73598876333365&hsa_src=o&hsa_tgt=kwd-73598817883911:loc-20&hsa_kw=alura&hsa_mt=e&hsa_net=bing&hsa_ver=3+&hsa_cam=566118231&msclkid=23fa398c7cd41a458f085e7fadfb9056",></a>, e tambem <br>
 Linguagem <a href="https://meninasprogramadoras.icmc.usp.br//"><i>Python</i></a> pela ICMC USP, <br>
-Ciêntista de dados pela <a href="https://semantix.ai/"> <i>Semantix</i></a>, <br>no meu tempo livre crio conteúdo no <a href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA"><i>YouTube</i></a><span> 
+Ciêntista de dados pela <a href="https://semantix.ai/"> <i>Semantix</i></a>, 
   <a align="rigth"  href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA" target="_blank"> 
-  </a><br>ultima atualização: Me formei backend java <br> pelo programa #ElasTech do PagBank pagseguro !:heart:
-     </div>
-     
-   
-     
 
 <div align="center">
-  
- 
   
   <h2> PRINCIPAIS STACKS</h2> 
 </div>
