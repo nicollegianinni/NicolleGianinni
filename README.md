@@ -11,6 +11,7 @@ Ciêntista de dados pela <a href="https://semantix.ai/"> <i>Semantix</i></a>,
 </div>
 <div align="center" valign="top">
   <img align="center" alt="java" height="60" width="70" src="https://logospng.org/download/java/logo-java-512.png">
+  <img align="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo.png">
   <img align="center" alt="python" height="50" width="40" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
